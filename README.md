@@ -1,5 +1,7 @@
 # Try Everything!
 
-> This world is AWESOME Blossom with Extra awesome!
+> like this special world.
 
-![IMG_6632.JPG](README.assets/IMG_6632.JPG.jpg)
+
+
+![DSC06837](README.assets/DSC06837.jpg)
