@@ -6,9 +6,9 @@
 
 |                깃 연결하기                |
 | :---------------------------------------: |
+|                `git init`                 |
 |           create New repository           |
 |           create New Directory            |
-|                `git init`                 |
 | `git remote add origin <repository URL\>` |
 |                `git add .`                |
 |        `git commit -m "*message*"`        |
